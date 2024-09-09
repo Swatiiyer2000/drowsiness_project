@@ -1,1 +1,1 @@
-# drowsiness_project
+This project is a drowsiness detection system that uses a webcam to monitor a user's eyes in real-time. It utilizes OpenCV and Haar cascades to detect faces and eyes in video frames. If the system detects that the eyes remain closed for a certain period, it triggers an alarm to alert the user, helping prevent accidents caused by drowsiness.
